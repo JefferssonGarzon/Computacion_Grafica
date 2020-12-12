@@ -1,2 +1,0 @@
-# Computacion_Grafica
-:V
